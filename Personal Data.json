@@ -2,7 +2,7 @@
     "$metadata": {
         "type": "AccesCredential",
         "uris": {
-            "jsonLdContext": "ipfs://QmQ6JzymzPDcaExBrHoA4uwYpsA9CL3kaCJzHxxW2wmAxX"
+            "jsonLdContext": "https://raw.githubusercontent.com/fquinteroc/dApp-Backend-Privado.id/refs/heads/main/Personal%20Data.json"
         },
         "version": "1.0"
     },
